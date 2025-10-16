@@ -776,21 +776,21 @@ proxy-groups:
     proxies:
       - DIRECT
   - name: 🇪🇺 欧盟节点
-     type: select
-     proxies:
-       - 🎁 t.me/PFSub | 🇳🇱 NL 002 | ⬇️ 29MB/s
-       - 🎁 t.me/PFSub | 🇳🇱 NL 004 | ⬇️ 26MB/s
-       - 🎁 t.me/PFSub | 🇳🇱 NL 005 | ⬇️ 25MB/s
-       - 🎁 t.me/PFSub | 🇩🇪 DE 006 | ⬇️ 28MB/s
-       - 🎁 t.me/PFSub | 🇳🇱 NL 007 | ⬇️ 29MB/s
-       - 🎁 t.me/PFSub | 🇳🇱 NL 021 | ⬇️ 24MB/s
-       - 🎁 t.me/PFSub | 🇩🇪 DE 106 | ⬇️ 3MB/s
-       - 🎁 t.me/PFSub | 🇫🇮 FI 132 | ⬇️ 2MB/s
-       - 🎁 t.me/PFSub | 🇫🇮 FI 133 | ⬇️ 4MB/s
-       - 🎁 t.me/PFSub | 🇫🇮 FI 134 | ⬇️ 1MB/s
-       - 🎁 t.me/PFSub | 🇫🇮 FI 135 | ⬇️ 1MB/s
-       - 🎁 t.me/PFSub | 🇩🇪 DE 137 | ⬇️ 3MB/s
-       - 🎁 t.me/PFSub | 🇫🇮 FI 138 | ⬇️ 2MB/s
+    type: select
+    proxies:
+      - 🎁 t.me/PFSub | 🇳🇱 NL 002 | ⬇️ 29MB/s
+      - 🎁 t.me/PFSub | 🇳🇱 NL 004 | ⬇️ 26MB/s
+      - 🎁 t.me/PFSub | 🇳🇱 NL 005 | ⬇️ 25MB/s
+      - 🎁 t.me/PFSub | 🇩🇪 DE 006 | ⬇️ 28MB/s
+      - 🎁 t.me/PFSub | 🇳🇱 NL 007 | ⬇️ 29MB/s
+      - 🎁 t.me/PFSub | 🇳🇱 NL 021 | ⬇️ 24MB/s
+      - 🎁 t.me/PFSub | 🇩🇪 DE 106 | ⬇️ 3MB/s
+      - 🎁 t.me/PFSub | 🇫🇮 FI 132 | ⬇️ 2MB/s
+      - 🎁 t.me/PFSub | 🇫🇮 FI 133 | ⬇️ 4MB/s
+      - 🎁 t.me/PFSub | 🇫🇮 FI 134 | ⬇️ 1MB/s
+      - 🎁 t.me/PFSub | 🇫🇮 FI 135 | ⬇️ 1MB/s
+      - 🎁 t.me/PFSub | 🇩🇪 DE 137 | ⬇️ 3MB/s
+      - 🎁 t.me/PFSub | 🇫🇮 FI 138 | ⬇️ 2MB/s
   - name: 🎥 奈飞节点
     type: select
     proxies:
