@@ -1,0 +1,37 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: 127.0.0.1:9090
+proxies:
+  - {name: 🎁 t.me/PFSub | 🇭🇰 HK 001 | ⬇️ 20MB/s, server: 47.243.39.20, port: 16664, type: vmess, uuid: 396c29a5-a9be-4cc9-ae22-2c935d9551a6, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/arki?ed=2048"}}
+  - {name: 🎁 t.me/PFSub | 🇭🇰 HK 009 | ⬇️ 23MB/s, server: 47.243.39.20, port: 29302, type: vmess, uuid: f21ed9f4-5068-44f7-b92a-1e22c832c212, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/arki?ed=2048"}}
+  - {name: 🎁 t.me/PFSub | 🇭🇰 HK 010 | ⬇️ 12MB/s, server: 47.239.220.144, port: 16174, type: vmess, uuid: cd386452-3a08-400d-bc5e-d142645f0fbe, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/arki?ed=2048"}}
+  - {name: 🎁 t.me/PFSub | 🇭🇰 HK 016 | ⬇️ 18MB/s, server: 47.243.172.177, port: 48540, type: vmess, uuid: 61999571-f1f4-47b1-b303-692ab359892d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/arki?ed=2048"}}
+  - {name: 🎁 t.me/PFSub | 🇭🇰 HK 022 | ⬇️ 12MB/s, server: 8.218.26.234, port: 21502, type: vmess, uuid: e711fa61-ab3e-471d-b660-6d9cbcd4f15e, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/arki?ed=2048"}}
+  - {name: 🎁 t.me/PFSub | 🇭🇰 HK 031 | ⬇️ 13MB/s, server: 47.238.78.223, port: 17723, type: vmess, uuid: 48acb3b4-574a-45b2-b527-c0f9a3e6dfa0, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/arki?ed=2048"}}
+  - {name: 🎁 t.me/PFSub | 🇭🇰 HK 032 | ⬇️ 11MB/s, server: 8.218.140.27, port: 13589, type: vmess, uuid: 9297b311-b73a-4332-9016-bb25cbe475ee, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/arki?ed=2048"}}
+  - {name: 🎁 t.me/PFSub | 🇭🇰 HK 033 | ⬇️ 11MB/s, server: 8.218.229.50, port: 2494, type: vmess, uuid: 7fb43d0e-2e57-4ba1-8b67-5cbe7a7df173, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/arki?ed=2048"}}
+  - {name: 🎁 t.me/PFSub | 🇭🇰 HK 034 | ⬇️ 13MB/s, server: 47.239.220.144, port: 59443, type: vmess, uuid: 34f3f6d0-41ca-4bcf-b79e-9c450c3ee1a8, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/arki?ed=2048"}}
+  - {name: 🎁 t.me/PFSub | 🇭🇰 HK 037 | ⬇️ 13MB/s, server: 47.243.39.20, port: 36512, type: vmess, uuid: cc13ac4b-d38f-4ebb-8a2a-73cf3aff5650, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/arki?ed=2048"}}
+  - {name: 🎁 t.me/PFSub | 🇭🇰 HK 038 | ⬇️ 11MB/s, server: 47.239.220.144, port: 28114, type: vmess, uuid: 13ea29e0-0583-4eaa-b1f6-50f80b6d3fff, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/arki?ed=2048"}}
+  - {name: 🎁 t.me/PFSub | 🇭🇰 HK 039 | ⬇️ 12MB/s, server: 8.217.144.141, port: 8852, type: vmess, uuid: f9792e97-929e-485e-ae13-fd6ee011ed2d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/arki?ed=2048"}}
+  - {name: 🎁 t.me/PFSub | 🇭🇰 HK 041 | ⬇️ 21MB/s, server: 47.86.82.249, port: 20522, type: vmess, uuid: 74126419-571d-489a-9ee6-066d05a8b9ab, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /telegram_@sswia}}
+  - {name: 🎁 t.me/PFSub | 🇭🇰 HK 042 | ⬇️ 12MB/s, server: 47.86.85.95, port: 20522, type: vmess, uuid: 9beaafcd-bdc1-420e-984a-b834337bcb16, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /telegram_@sswia}}
+  - {name: 🎁 t.me/PFSub | 🇭🇰 HK 043 | ⬇️ 12MB/s, server: 8.210.52.211, port: 20522, type: vmess, uuid: 37827036-1fc5-41ea-9fc5-111af1db49dc, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /telegram_@sswia}}
+  - {name: 🎁 t.me/PFSub | 🇳🇱 NL 076 | ⬇️ 14MB/s, server: openai.com, port: 2095, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: false, client-fingerprint: randomized, network: ws, ws-opts: {path: /, headers: {Host: freedom.pusytroller.cf}}}
+  - {name: 🎁 t.me/PFSub | 🇺🇸 US 134 | ⬇️ 23MB/s, server: 162.159.142.252, port: 2083, type: vless, uuid: d2965257-0536-4811-a0d5-cdce54e90326, tls: true, alpn: [h3], servername: fei.634676.xyz, client-fingerprint: random, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: fei.634676.xyz}}, udp: true}
+  - {name: 🎁 t.me/PFSub | 🇺🇸 US 135 | ⬇️ 10MB/s, server: 162.159.142.252, port: 2083, type: vless, uuid: d2965257-0536-4811-a0d5-cdce54e90326, tls: true, alpn: [h3], servername: fei.634676.xyz, client-fingerprint: random, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: fei.634676.xyz}}, udp: true}
+  - {name: 🎁 t.me/PFSub | 🇺🇸 US 136 | ⬇️ 16MB/s, server: 162.159.142.252, port: 2083, type: vless, uuid: d2965257-0536-4811-a0d5-cdce54e90326, tls: true, alpn: [h3], servername: fei.634676.xyz, client-fingerprint: random, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: fei.634676.xyz}}, udp: true}
+  - {name: 🎁 t.me/PFSub | 🇺🇸 US 170 | ⬇️ 7MB/s, server: 162.159.142.252, port: 2083, type: vless, uuid: d2965257-0536-4811-a0d5-cdce54e90326, tls: true, servername: fei.634676.xyz, client-fingerprint: random, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: fei.634676.xyz}}, udp: true}
+  - {name: 🎁 t.me/PFSub | 🇺🇸 US 178 | ⬇️ 7MB/s, server: 162.159.142.252, port: 2083, type: vless, uuid: d2965257-0536-4811-a0d5-cdce54e90326, tls: true, alpn: [h3], servername: fei.634676.xyz, client-fingerprint: random, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: fei.634676.xyz}}, udp: true}
+  - {name: 🎁 t.me/PFSub | 🇺🇸 US 181 | ⬇️ 22MB/s, server: 162.159.142.252, port: 2083, type: vless, uuid: d2965257-0536-4811-a0d5-cdce54e90326, tls: true, alpn: [h3], servername: fei.634676.xyz, client-fingerprint: random, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: fei.634676.xyz}}, udp: true}
+  - {name: 🎁 t.me/PFSub | 🇺🇸 US 182 | ⬇️ 17MB/s, server: 162.159.142.252, port: 2083, type: vless, uuid: d2965257-0536-4811-a0d5-cdce54e90326, tls: true, alpn: [h3], servername: fei.634676.xyz, client-fingerprint: random, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: fei.634676.xyz}}}
+  - {name: 🎁 t.me/PFSub | 🇺🇸 US 166 | ⬇️ 40MB/s, server: 103.160.204.126, port: 2052, type: vless, uuid: 7ee56632-d50f-49e1-8d32-5e78728d4fb7, tls: false, client-fingerprint: randomiz, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: mynekobox.szcgl2012.workers.dev}}}
+ - {name: 🎁 t.me/PFSub | 🇳🇱 NL 001 | ⬇️ 27MB/s, server: openai.com, port: 2095, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: false, client-fingerprint: randomized, network: ws, ws-opts: {path: /, headers: {Host: freedom.pusytroller.cf}}}
+  - {name: 🎁 t.me/PFSub | 🇳🇱 NL 002 | ⬇️ 26MB/s, server: www.shopify.com, port: 2095, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: false, network: ws, ws-opts: {path: /, headers: {Host: freedom.pusytroller.cf}}}
+  - {name: 🎁 t.me/PFSub | 🇳🇱 NL 003 | ⬇️ 19MB/s, server: www.shopify.com, port: 2095, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: false, client-fingerprint: randomized, network: ws, ws-opts: {path: /, headers: {Host: freedom.pusytroller.cf}}}
+  - {name: 🎁 t.me/PFSub | 🇳🇱 NL 004 | ⬇️ 24MB/s, server: cf.090227.xyz, port: 2095, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: false,
+
+rules:
