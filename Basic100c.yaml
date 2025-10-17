@@ -105,7 +105,6 @@ proxies:
   - {name: 🎁 t.me/PFSub | 🇰🇷 KR 008 | ⬇️ 5MB/s, server: testkr3.ssv.vc, port: 30446, type: http, username: test, password: test.+, tls: true, skip-cert-verify: true}
   - {name: 🎁 t.me/PFSub | 🇰🇷 KR 009 | ⬇️ 8MB/s, server: testkr3.ssv.vc, port: 30446, type: http, username: test, password: test.+, tls: true, skip-cert-verify: true}
   - {name: 🎁 t.me/PFSub | 🇰🇷 KR 010 | ⬇️ 6MB/s, server: testkr3.ssv.vc, port: 30446, type: http, username: test, password: test.+, tls: true, skip-cert-verify: true}
-
 proxy-groups:
   - name: 🚀 节点选择
     type: select
