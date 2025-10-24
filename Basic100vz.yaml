@@ -27,8 +27,8 @@ proxies:
   - {name: 🎁 t.me/PFSub | 🇺🇸 US 020 | ⬇️ My 5, server: 45.131.4.22, port: 80, type: vless, uuid: 7ee56632-d50f-49e1-8d32-5e78728d4fb7, tls: false, client-fingerprint: randomiz, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: mynekobox.szcgl2012.workers.dev}}}
   - {name: 🎁 t.me/PFSub | 🇺🇸 US 021 | ⬇️ sn21, server: d11207a7-t4dz40-tlpfci-1jdha.us.hyhuawei.com, port: 443, type: hysteria2, password: de629d50-1711-11ed-bd7c-f23c913c8d2b, auth: de629d50-1711-11ed-bd7c-f23c913c8d2b, udp: true}
   - {name: 🎁 t.me/PFSub | 🇺🇸 US 022 | ⬇️ sn22, server: 188.42.145.253, port: 2096, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: true, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: "/Telegram🇨🇳 @WangCai2 /?ed=2560", headers: {Host: gaosir.unfeeling.sbs}}, .: true}
-  - {name: 🎁 t.me/PFSub | 🇺🇸 US 023 | ⬇️ snUSA , server: 34b0cb0e-t4dz40-t5rf4m-81nv.us.hyhuawei.com, port: 443, type: hysteria2, password: 47e91fb6-25b8-df52-bc18-3cdc8548192f, auth: 47e91fb6-25b8-df52-bc18-3cdc8548192f, udp: true}
-  - {name: 🎁 t.me/PFSub | 🇺🇸 US 024 | ⬇️ sn20, server: pepslgy2.pepsl.top, port: 14568, type: hysteria2, password: 6d986268-b4ef-4aa7-894a-ee45dbfb7f38, auth: 6d986268-b4ef-4aa7-894a-ee45dbfb7f38, sni: pepslgy2.pepsl.top, skip-cert-verify: true, udp: true}
+  - {name: 🎁 t.me/PFSub | 🇺🇸 US 023 | ⬇️ sn13, server: 104.19.50.238, port: 2096, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: true, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: "/telegram🇨🇳@wangcai2/?ed=2560", headers: {Host: gaosir.unfeeling.sbs}}, udp: true}
+  - {name: 🎁 t.me/PFSub | 🇺🇸 US 024 | ⬇️ sn18, server: nop-55q.pages.dev, port: 2053, type: trojan, password: "T@_WvT8Ho@LW%w_,", sni: NOp-55q.pAgEs.dEv, skip-cert-verify: false, network: ws, ws-opts: {path: /trGPZDfetEwuO25SAs, headers: {Host: NOp-55q.pAgEs.dEv}}, udp: true}, server: pepslgy2.pepsl.top, port: 14568, type: hysteria2, password: 6d986268-b4ef-4aa7-894a-ee45dbfb7f38, auth: 6d986268-b4ef-4aa7-894a-ee45dbfb7f38, sni: pepslgy2.pepsl.top, skip-cert-verify: true, udp: true}
   - {name: 🎁 t.me/PFSub | 🇺🇸 US 025 | ⬇️ 30MB/s, server: 36.156.102.115, port: 26876, type: trojan, password: BxceQaOe, skip-cert-verify: true}
   - {name: 🎁 t.me/PFSub | 🇭🇰 HK 001 | ⬇️ 15MB/s, server: 36.150.215.138, port: 4451, type: trojan, password: BxceQaOe, skip-cert-verify: true}
   - {name: 🎁 t.me/PFSub | 🇭🇰 HK 002 | ⬇️ 668KB/s, server: 47.76.175.67, port: 10862, type: http, username: 123, password: 123, tls: false}
@@ -144,8 +144,8 @@ proxy-groups:
       - 🎁 t.me/PFSub | 🇺🇸 US 020 | ⬇️ My 5
       - 🎁 t.me/PFSub | 🇺🇸 US 021 | ⬇️ sn21
       - 🎁 t.me/PFSub | 🇺🇸 US 022 | ⬇️ sn22
-      - 🎁 t.me/PFSub | 🇺🇸 US 023 | ⬇️ snUSA
-      - 🎁 t.me/PFSub | 🇺🇸 US 024 | ⬇️ sn20
+      - 🎁 t.me/PFSub | 🇺🇸 US 023 | ⬇️ sn13
+      - 🎁 t.me/PFSub | 🇺🇸 US 024 | ⬇️ sn18
       - 🎁 t.me/PFSub | 🇺🇸 US 025 | ⬇️ 30MB/s
       - 🎁 t.me/PFSub | 🇭🇰 HK 001 | ⬇️ 15MB/s
       - 🎁 t.me/PFSub | 🇭🇰 HK 002 | ⬇️ 668KB/s
@@ -446,8 +446,8 @@ proxy-groups:
       - 🎁 t.me/PFSub | 🇺🇸 US 020 | ⬇️ My 5
       - 🎁 t.me/PFSub | 🇺🇸 US 021 | ⬇️ sn21
       - 🎁 t.me/PFSub | 🇺🇸 US 022 | ⬇️ sn22
-      - 🎁 t.me/PFSub | 🇺🇸 US 023 | ⬇️ snUSA
-      - 🎁 t.me/PFSub | 🇺🇸 US 024 | ⬇️ sn20
+      - 🎁 t.me/PFSub | 🇺🇸 US 023 | ⬇️ sn13
+      - 🎁 t.me/PFSub | 🇺🇸 US 024 | ⬇️ sn18
       - 🎁 t.me/PFSub | 🇺🇸 US 025 | ⬇️ 30MB/s
   - name: 🇭🇰 香港节点
     type: select
