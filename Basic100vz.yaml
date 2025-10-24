@@ -5,6 +5,7 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
+true}
   - {name: 🎁 t.me/PFSub | 🇺🇸 US 001 | ⬇️ My, server: 103.160.204.126, port: 2052, type: vless, uuid: 7ee56632-d50f-49e1-8d32-5e78728d4fb7, tls: false, client-fingerprint: randomiz, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: mynekobox.szcgl2012.workers.dev}}}
   - {name: 🎁 t.me/PFSub | 🇺🇸 US 002 | ⬇️ 10MB/s, server: 162.159.142.252, port: 2083, type: vless, uuid: d2965257-0536-4811-a0d5-cdce54e90326, tls: true, alpn: [h3], servername: fei.634676.xyz, client-fingerprint: random, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: fei.634676.xyz}}, udp: true}
   - {name: 🎁 t.me/PFSub | 🇺🇸 US 003 | ⬇️ 22MB/s, server: www.shopify.com, port: 2095, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: false, client-fingerprint: randomized, network: ws, ws-opts: {path: /, headers: {Host: fangbinxingnmsl.pusytroller.cf}}}
